@@ -19,7 +19,7 @@ Sync Sourcecode
 
 
 ```shell
-repo init -u https://github.com/Miku-UI/manifesto -b TDA
+repo init -u https://github.com/shin32125/manifesto-1 -b TDA
 ```
 
 
